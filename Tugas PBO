@@ -64,7 +64,6 @@ class Kopi {
 
 /**
  * Class Kedai adalah public class utama yang berisi method main.
- * Nama file harus sama dengan nama class ini, yaitu Kedai.java.
  */
 public class Kedai {
     public static void main(String[] args) {
